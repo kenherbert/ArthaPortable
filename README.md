@@ -1,8 +1,5 @@
 # ArthaPortable
 
-## Todo
-- Compare against released package to ensure all data is up to date
-
 
 ## Build Process
 1. After installing [Artha](http://artha.sourceforge.net/wiki/index.php/Download), copy the files into the `App/Artha/` folder
